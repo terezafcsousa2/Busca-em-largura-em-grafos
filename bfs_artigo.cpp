@@ -84,10 +84,10 @@ int main()
 	grafo.adicionarAresta(1, 5);
 	grafo.adicionarAresta(2, 3);
 	grafo.adicionarAresta(2, 5);
-    grafo.adicionarAresta(4, 6);
-    grafo.adicionarAresta(5, 6);
-    grafo.adicionarAresta(5, 7);
-    grafo.adicionarAresta(6, 7);
+    	grafo.adicionarAresta(4, 6);
+    	grafo.adicionarAresta(5, 6);
+    	grafo.adicionarAresta(5, 7);
+    	grafo.adicionarAresta(6, 7);
 
 
 	grafo.bfs(0);
